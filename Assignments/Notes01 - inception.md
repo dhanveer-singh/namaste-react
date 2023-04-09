@@ -77,7 +77,7 @@ The main difference between the two files is that react.development.js contains 
 
 Therefore, it is recommended to use react.development.js during development to facilitate error detection and debugging, and react.production.js in a production environment to improve the performance and loading speed of the application.
 
-#### Q8 What is async and defer?
+#### Q8 What are async and defer?
 
 `async` and `defer` are two attributes that can be added to the `<script>` tag in HTML to control how a script is loaded and executed by the browser.
 
